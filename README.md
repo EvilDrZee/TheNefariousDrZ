@@ -1,5 +1,5 @@
 # The Nefarious Dr Z
-A Tic-Tac-Toe app that plays against the user and does not lose. Made entirely using JavaScript and JQuery.
+A Tic-Tac-Toe app that plays against the user and does not lose. Made entirely using JavaScript and JQuery, and strictly boolean logic, no external libraries or external sources.
 
 Inspired by "Dr Nim", an unbeatable toy from the 1960s.
 
